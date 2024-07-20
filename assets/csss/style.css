@@ -1,0 +1,27 @@
+::selection{
+    background-color:  #211c58;
+    Color:#169fda;
+}
+.logo-lg img{
+    width: 120px;
+    /* Set the width of the large logo */
+    height: auto;
+    /* Automatically adjust the height to maintain aspect ratio */
+}
+#addNew{
+    background-color: #211c58;
+    border: none;
+    box-shadow: none;
+}
+.bnb{
+    background-color: #211c58;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+.bnb:hover{
+    background-color: #169fda;
+    border: none;
+    box-shadow: none;
+    color: white;
+}

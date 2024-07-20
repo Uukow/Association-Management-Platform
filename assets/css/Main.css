@@ -1,0 +1,4 @@
+.dark-mode {
+    --background-color: #121212; /* Dark theme background color */
+    --text-color: #ffffff;       /* Dark theme text color */
+  }
